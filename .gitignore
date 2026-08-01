@@ -1,0 +1,9 @@
+# Configuration locale et base de données
+config.json
+personas.db
+
+# Environnement Python
+__pycache__/
+*.pyc
+.venv/
+env/
